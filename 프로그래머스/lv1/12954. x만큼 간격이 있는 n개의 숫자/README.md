@@ -52,3 +52,5 @@
       </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+)걸린 시간 : 5분<br>(+)배열 메서드 push 찾아봄</p>
