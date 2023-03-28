@@ -63,3 +63,5 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+)몇 번 틀림<br>(+)걸린 시간 : 10분<br>(+)힌트 봄 -> i 초기값을 3으로 둬서 틀린 거였음. n의 범위가 3 이상.</p>
