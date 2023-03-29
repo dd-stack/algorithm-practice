@@ -39,3 +39,5 @@
       </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+) 걸린 시간 : 50분<br>(+) map, sort, join 등 내림차순 알고리즘 구글링<br>(+) return Number(n.toString().split("").sort((a,b) => b-a).join("")); 이런 식으로 한 줄로 쓸 수도 있음</p>
