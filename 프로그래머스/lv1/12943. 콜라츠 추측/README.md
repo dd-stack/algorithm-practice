@@ -71,3 +71,5 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+) 시간 오래 걸림<br>(+) 재귀함수 사용법 체크</p>
