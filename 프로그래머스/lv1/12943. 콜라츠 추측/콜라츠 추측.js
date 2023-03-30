@@ -5,7 +5,7 @@ function solution(num) {
         return result;
     }
     if(result >= 500){
-            return -1
+        return -1;
     }
     let n = 0;
     if(num % 2 === 0){
