@@ -1,4 +1,5 @@
 let result = 0;
+
 function solution(num) {
     if(num === 1){
         return result;
