@@ -44,3 +44,5 @@
       </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+) splice() 구글링<br>(+) Math.min(...arr) 이렇게 쓰는 방법도 있음.</p>
