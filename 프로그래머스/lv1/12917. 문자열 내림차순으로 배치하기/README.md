@@ -40,3 +40,5 @@ s는 영문 대소문자로만 구성되어 있으며, 대문자는 소문자보
       </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+) 문제 이해를 잘못해서 오래 걸림. "gfeEdcbZ" 이런 식으로 정렬되어야 하는 줄 알았는데, "gfedcbZE" 이런 식이면 되는 거였음.</p>
