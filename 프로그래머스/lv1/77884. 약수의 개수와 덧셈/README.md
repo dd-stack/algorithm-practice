@@ -135,3 +135,5 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>제곱근이 정수면 약수의 개수가 홀수라는 점을 이용할 수도 있음!</p>
