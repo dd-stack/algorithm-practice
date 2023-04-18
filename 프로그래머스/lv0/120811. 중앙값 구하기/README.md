@@ -65,3 +65,5 @@ Empty
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+) 그냥 sort()를 사용하면 유니코드 순서대로 정렬됨</p>
