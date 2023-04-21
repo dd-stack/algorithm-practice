@@ -65,3 +65,5 @@ Empty
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+<p>(+) return numbers.reduce((acc, cur) => acc + cur) / numbers.length 이런 식으로 reduce를 사용했어도 됐을 듯</p>
