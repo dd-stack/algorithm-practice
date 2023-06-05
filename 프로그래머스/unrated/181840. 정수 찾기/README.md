@@ -69,4 +69,4 @@ Empty
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 
-<p>(+)includes 메서드를 사용할 수도 있었을 듯</br>(+)삼항 연산자를 썼으면 더 깔끔했을 듯</p>
+<p>(+) includes 메서드를 사용할 수도 있었을 듯</br>(+) 삼항 연산자를 썼으면 더 깔끔했을 듯</p>
