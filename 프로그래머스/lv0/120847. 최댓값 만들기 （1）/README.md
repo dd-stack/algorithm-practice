@@ -65,4 +65,4 @@ Empty
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
 
-<p>let [a, b] = numbers.sort((a, b) => b - a) 이런 식으로 구조분해할당해도 깔끔할 듯</p>
+<p>(+) let [a, b] = numbers.sort((a, b) => b - a) 이런 식으로 구조분해할당해도 깔끔할 듯</p>
