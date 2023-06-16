@@ -1,7 +1,8 @@
 function solution(my_string) {
     let answer = '';
+    const vowels = ['a', 'e', 'i', 'o', 'u']
     for(let i = 0; i < my_string.length; i++){
-        if(my_string[i] !== 'a' && my_string[i] !== 'e' && my_string[i] !== 'i' && my_string[i] !== 'o' && my_string[i] !== 'u'){
+        if(!vowels.includes(my_string[i])){
             answer = answer + my_string[i];
         }
     }
