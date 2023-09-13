@@ -8,5 +8,5 @@ function solution(array, commands) {
         
         answer.push(sortArr[commands[i][2] - 1])
     }
-    return answer
+    return answer;
 }
