@@ -7,6 +7,8 @@ function solution(citations) {
     // }
     
     // [9,9,9,9,1] -> 4
+    // [1, 1, 10000]
+    // [0]
     
     if(Math.max(...citations) === 0){
         return 0;
