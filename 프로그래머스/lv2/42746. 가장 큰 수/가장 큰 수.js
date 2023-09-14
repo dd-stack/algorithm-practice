@@ -24,13 +24,11 @@ function solution(numbers) {
 //     }
     
     
-    // numbers를 문자열로 변환한 후 (내림차순) 정렬.
-    const sortedNumbers = numbers.map(String).sort((a, b) => (b + a) - (a + b));
-    
-    // 정렬된 숫자를 이어 붙인다. 
-    const answer = sortedNumbers.join("");
+    // numbers를 문자열로 변환한 후 (내림차순) 정렬
+    const sortNumbers = numbers.map(String).sort((a, b) => (b + a) - (a + b));
+    const answer = sortNumbers.join("");
 
-    // 결과가 "0"으로 시작하는 경우 "0"을 반환.
+    // 결과가 "0"으로 시작하는 경우 "0" 리턴
     if (answer.charAt(0) === "0") {
         return "0";
     } else {
