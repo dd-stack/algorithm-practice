@@ -1,15 +1,4 @@
 function solution(citations) {
-    // const sortedArr = citations.sort((a, b) => b - a);
-    // for(let i = 0; i < sortedArr.length; i++){
-    //     if(sortedArr.filter((x) => x >= sortedArr[i]).length >= sortedArr[i]){
-    //         return sortedArr[i];
-    //     }
-    // }
-    
-    // [9,9,9,9,1] -> 4
-    // [1, 1, 10000]
-    // [0]
-    
     if(Math.max(...citations) === 0){
         return 0;
     }
