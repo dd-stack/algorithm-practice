@@ -6,11 +6,14 @@ function solution(citations) {
     //     }
     // }
     
+    // [9,9,9,9,1] -> 4
+    
     if(Math.max(...citations) === 0){
         return 0;
     }
-
-    for(let i = Math.max(...citations); i >= 1; i--){
+    
+    const MaxCount = Math.min(Math.max(...citations), citations.length)
+    for(let i = MaxCount; i >= 1; i--){
         if(citations.filter((x) => x >= i).length >= i){
             return i;
         }
