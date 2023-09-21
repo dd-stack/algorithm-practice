@@ -4,7 +4,7 @@ function solution(numbers, target) {
     
     function dfs(nodeIdx, sum){
         // 마지막 노드까지 진행한 후
-        if(nodeIdx === numbers.length){
+        if(nodeIdx > numbers.length - 1){
             result.push(sum);
             return;
         }
