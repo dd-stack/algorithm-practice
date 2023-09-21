@@ -6,7 +6,7 @@ function solution(n, computers) {
     
     // dfs 함수
     function dfs(startNode) {
-        const stack = [startNode]; // 시작 노드를 스택(경로)에 넣는다. stack = [0]
+        const stack = [startNode]; // 시작 노드를 스택(지나온 경로)에 넣는다. stack = [0]
         // 스택이 빌 때까지 반복
         while(stack.length){
             // 더 이상 나아갈 곳이 없으면 되돌아간다. 
